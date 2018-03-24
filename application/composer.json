@@ -1,0 +1,8 @@
+{
+    "name": "meyna/jobrequisition",
+    "description": "sms notofication",
+    "type": "project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
